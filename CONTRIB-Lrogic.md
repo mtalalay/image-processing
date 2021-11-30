@@ -1,0 +1,8 @@
+-Created mirror function
+-Created clip function
+-Created block paint function
+  -Created averageOfNeighbor
+-Helped make rotate function 
+-Helped make discrete fourier transform
+-Helped on greenscreen
+-Helped a bit on align text
